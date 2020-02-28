@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhackAMole</string>
+    <string name="help_text">
+        Play Whack A Mole! Be able to choose which mole you want hit!
+        Whack as many moles as possible before the timer runs out!
+        If you whack the mole, you gain a point!
+        If you miss the mole, you lose a point!
+        Good luck!!!!
+    </string>
+</resources>
